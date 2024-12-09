@@ -43,6 +43,7 @@ add other awesome Kurds, including you!
 - [Ali Mustafa](https://github.com/Ali11Mustafa)
 - [Amanj Adnan](https://twitter.com/AmanjGargary): Ruby, Rails, PostgreSQL
 - [Ameer Hameed](https://twitter.com/ameermirawdeli)
+- [Elnnd Selman](https://github.com/elnnd-selman): 
 - [Amirhossein Khosravi](https://github.com/amirkho-py): Full-stack, Python, Django, NoSQL, Flutter
 - [Andam Adam](https://x.com/AdamKhidhir): PHP, Laravel
 - [Ara Arsalan](https://github.com/YouCanCallMeAra)
